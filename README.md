@@ -4,10 +4,6 @@
 
 🌐 I am a Brazilian living in the UAE since August 2014.<br>🛠 Currently working as Jiu-Jitsu Instructor in the UAE Public Schools.<br>📚 Chasing my dreams to become a Full Stack Developer, I am studying since November 2022.<br>🤝 As Software Developer I’ll look for quick and definitive solutions to help other's business thrive the tech age. <br>💡 I’m currently learning Next JS, Typescript, Node JS, Tailwind CSS and Chakra-UI.<br>⚡ I speak Brazilian Portuguese as Native and English that I can say I am fluent.<br>
 
-## 🌐 Socials:
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/6RNBGwhr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@StrayTechie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MaxBuzinPro)
-
 # 💻 Tech Stack:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=flat-square&logo=chakraui&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
