@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🌐 I am a Brazilian living in the UAE since August 2014.<br>🛠 Currently working as Jiu-Jitsu Instructor in the UAE Public Schools.<br>📚 Chasing my dreams to become a Full Stack Developer, I am studying since November 2022.<br>🤝 As Software Developer I’ll look for quick and definitive solutions to help other's business thrive the tech age. <br>💡 I’m currently learning Next JS, Typescript, Node JS, Tailwind CSS and Chakra-UI.<br>⚡ I speak Brazilian Portuguese as Native and English that I can say I am fluent.<br>
+🌐 I am a Brazilian living in the UAE since August 2014.<br>🛠 Currently working as Jiu-Jitsu Instructor in the UAE Public Schools.<br>📚 Chasing my dream to become a Full Stack Developer, I am studying since November 2022.<br>🤝 As Software Developer I look for quick and definitive solutions to help other's businesses thrive the tech age. <br>💡 I’m currently learning Next JS, Typescript, Node JS, Tailwind CSS and Chakra-UI.<br>⚡ I speak Brazilian Portuguese as Native and English that I can say I am fluent.<br>
 
 # 💻 Tech Stack:
 
