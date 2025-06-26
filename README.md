@@ -2,7 +2,14 @@
 
 # 💫 About Me:
 
-🌐 Brazilian living in the UAE since August 2014.<br>🛠 Currently working as Jiu-Jitsu Instructor in the UAE Public Schools.<br>📚 Chasing my dream to become a Full Stack Developer, I am studying since November 2022.<br>🤝 As Software Developer I look for quick and definitive solutions to help other's businesses thrive the tech age. <br>💡 I’m currently learning React JS, Next JS, Typescript, Node JS and Tailwind CSS.<br>⚡ I speak Brazilian Portuguese (Native speaker) and English (professional proficiency), I am also studying Russian and Italian.<br>
+🧠 About Me
+
+🇧🇷 Brazilian living in the UAE since 2014. </br>
+🥋 Jiu-Jitsu Instructor in UAE Public Schools by day, Full Stack Developer in the making by night.</br>
+🚀 Studying full stack development since November 2022, focused on building clean, fast, and effective digital solutions.</br>
+🧩 Passionate about helping businesses grow through practical and elegant tech.</br>
+🛠️ Currently diving deep into React, Next.js, TypeScript, Node.js, and Tailwind CSS.</br>
+🗣️ Fluent in Brazilian Portuguese and English. Also learning Russian and Italian to expand my global reach.</br>
 
 # 💻 Tech Stack:
 
@@ -15,8 +22,6 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat-square&logo=expo&logoColor=#D04A37)
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white)
